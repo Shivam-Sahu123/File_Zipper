@@ -4,6 +4,11 @@ A Java-based **lossless file compression and decompression tool** that uses **Hu
 
 ---
 
+## 📸 Preview
+
+![Huffman File Zipper GUI](screenshot/main_photo.png)
+
+
 ## 🚀 Features
 
 - Lossless file compression and decompression
