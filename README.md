@@ -25,6 +25,40 @@ A Java-based **lossless file compression and decompression tool** that uses **Hu
 - Supports arbitrary binary files
 - Handles files that may not benefit from compression
 
+
+---
+ # 🛠️ Technologies Used
+
+| Technology | Purpose |
+|---|---|
+| **Java** | Core programming language |
+| **Java Swing** | Graphical User Interface |
+| **Java I/O** | File reading and writing |
+| **Java Collections** | Priority Queue and data structures |
+| **Java NIO** | File and path handling |
+| **Multithreading** | Background compression/decompression |
+| **Binary/Bit Processing** | Huffman encoding and decoding |
+
+---
+
+# 🖥️ GUI
+
+The application is built using **Java Swing**.
+
+The GUI provides:
+
+- File selection
+- Compression method selection
+- Compress button
+- Decompress button
+- Progress bar
+- Status messages
+- Original file size
+- Compressed file size
+- Compression ratio
+- Space saved
+- Method used
+
 ---
 
 ## 🖥️ Application
